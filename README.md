@@ -3,22 +3,22 @@ A simple yet functional digital clock application built using Python and Tkinter
 
 
 Features
-Real-time clock display
-User-friendly interface for setting alarms
-Alarm notifications via message boxes
+1. Real-time clock display
+2. User-friendly interface for setting alarms
+3. Alarm notifications via message boxes
 
 
 Technologies Used
-Python
-Tkinter (for GUI)
-Threading
-Time module (for time management)
+1. Python
+2. Tkinter (for GUI)
+3. Threading
+4. Time module (for time management)
 
 
 Installation
-Clone the repository.
-Ensure Python is installed on your system.
-Run the application using python digital_clock.py.
+1. Clone the repository.
+2. Ensure Python is installed on your system.
+3. Run the application using python digital_clock.py.
 
 
 Usage
